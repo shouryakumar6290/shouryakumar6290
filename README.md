@@ -6,9 +6,9 @@ A performance-driven Computer Science student with advanced competencies in soft
 
 ---
 
-### 📈 Profile Activity Insights
+### 🐍 My Contribution Snake Game
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Shourya's Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg" alt="Shourya's Contribution Snake" width="100%" />
 </p>
 
 ---
