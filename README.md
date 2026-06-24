@@ -4,8 +4,6 @@
 
 A performance-driven Computer Science student with advanced competencies in software engineering, algorithms, data structures, and intelligent systems. Adept at leveraging deep learning, full-stack frameworks, and predictive modeling to engineer production-ready software solutions and high-impact academic research.
 
-📬 **Email Me:** shouryakumar6290@gmail.com
-
 ---
 
 ### 🚀 About Me
@@ -18,9 +16,10 @@ A performance-driven Computer Science student with advanced competencies in soft
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/shouryakumar6290" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://leetcode.com/u/shourya%20Kumar" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.instagram.com/theshouryakumar/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/shourya.kumar.37266136" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:shouryakumar6290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://leetcode.com/u/shourya%20Kumar" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
 ---
