@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋 I'm Shourya Kumar</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00E5FF;">Shourya Kumar</span>
+</h1>
 
 <h3 align="center">
-Artificial Intelligence • Deep Learning • Full Stack Development
+Artificial Intelligence • Deep Learning • Full Stack Developer
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+AI+Powered+Applications;Always+Learning+Something+New+🚀"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shouryakumar6290?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/shouryakumar6290?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <table>
+
 <tr>
 
 <td width="55%">
@@ -25,17 +38,17 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 
 🧠 Deep Learning & Machine Learning Enthusiast
 
-🌐 Full Stack Web Developer
+🌐 Full Stack MERN Developer
 
 💻 Strong in Data Structures & Algorithms
 
-☁️ Exploring Cloud Computing
+☁️ Exploring Cloud Computing & DevOps
 
-🚀 Love Building Real-World Software
+🚀 Love Building AI Powered Applications
 
-📖 Always Curious to Learn New Technologies
+📖 Constantly Learning New Technologies
 
-🎯 Goal: Build Scalable AI Products that Solve Real-World Problems.
+🎯 **Goal:** Build scalable AI products that solve real-world problems.
 
 </td>
 
@@ -50,6 +63,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -58,12 +72,12 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shourya-kumar-83b47741a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:shouryakumar6290@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shourya-kumar-83b47741a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shouryakumar6290">
@@ -87,37 +101,93 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 ---
 # 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,vercel,figma,vite,tensorflow,pytorch,docker,aws&perline=6"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
-
 <div align="center">
 
-| 🌟 Focus Area | 📌 Description |
-|:-------------:|:--------------|
-| 🤖 AI | Artificial Intelligence |
-| 🧠 Deep Learning | Neural Networks & Transformers |
-| 🌐 Full Stack | MERN Stack Development |
-| ☁️ Cloud | AWS & Cloud Computing |
-| 💻 DSA | Competitive Programming |
-| 🔐 Cyber Security | Security Fundamentals |
-| 📈 Software Engineering | Scalable Applications |
+## 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6"/>
+
+<br><br>
+
+## 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,figma&perline=5"/>
+
+<br><br>
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4"/>
+
+<br><br>
+
+## 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&perline=3"/>
+
+<br><br>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel,vscode&perline=7"/>
 
 </div>
 
 ---
 
+# 🚀 What I'm Currently Focusing On
+
+<div align="center">
+
+| 🚀 Domain | 📌 Working On |
+|:---------:|:--------------|
+| 🤖 Artificial Intelligence | Building AI-powered Applications |
+| 🧠 Deep Learning | Transformers & Neural Networks |
+| 🌐 Full Stack Development | MERN Stack Projects |
+| 💻 Data Structures | Problem Solving & Competitive Programming |
+| ☁️ Cloud Computing | AWS & Deployment |
+| 📚 Open Source | Learning & Contributing |
+
+</div>
+
+---
+
+# 🌟 Technologies I Love
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-28A745?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build impactful AI-powered applications.
+- 🧠 Master Deep Learning and Generative AI.
+- 🌐 Develop scalable Full Stack applications.
+- ☁️ Learn AWS, Docker, and Kubernetes.
+- 💻 Strengthen Data Structures & Algorithms.
+- 🤝 Contribute to Open Source projects.
+- 📈 Continuously improve problem-solving skills.
+
+---
 # 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
 
@@ -149,18 +219,6 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -170,192 +228,174 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 </p>
 
 ---
-# 🏆 Achievements
 
-<div align="center">
-
-🎓 B.Tech Computer Science Engineering Student
-
-🤖 AI & Deep Learning Enthusiast
-
-💻 Full Stack Developer
-
-🧠 Strong DSA & Problem Solving Skills
-
-🚀 Consistently Building Real-World Projects
-
-📚 Passionate About Software Engineering
-
-☁️ Exploring Cloud Computing & DevOps
-
-</div>
-
----
-
-# 📚 Currently Learning
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch&perline=5"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
+---
+
+# ⚡ Developer Highlights
+
 <div align="center">
 
-| Technology | Learning |
-|------------|----------|
-| ☁️ AWS | Cloud Services |
-| 🐳 Docker | Containerization |
-| ☸️ Kubernetes | Container Orchestration |
-| 🧠 TensorFlow | Deep Learning |
-| 🔥 PyTorch | AI Model Development |
+🏆 Passionate about solving real-world problems using AI.
+
+💡 Strong foundation in Data Structures & Algorithms.
+
+🤖 Interested in Artificial Intelligence & Deep Learning.
+
+🌐 Experienced in Full Stack Web Development.
+
+☁️ Exploring Cloud Computing and DevOps.
+
+🚀 Always learning, building and improving.
+
+</div>
+
+---
+---
+
+# 💼 Professional Experience
+
+<div align="center">
+
+### 🧠 Deep Learning Intern  
+**Birla Institute of Technology, Mesra**
+
+Worked on Artificial Intelligence and Deep Learning based solutions, exploring Transformer architectures and advanced neural network models.
+
+<br>
+
+### 🚀 Enactus KIIT  
+Technology & Innovation Contributor
+
+Contributing towards technology-driven initiatives and innovative solutions.
 
 </div>
 
 ---
 
-# 💡 Areas of Interest
+# 🏆 Achievements & Certifications
 
 <div align="center">
 
-| 🤖 AI | 🧠 Machine Learning | 🎙 Speech Processing |
-|:---:|:---:|:---:|
-| 🌐 Full Stack | ☁️ Cloud Computing | 📊 Data Science |
-| 💻 Software Engineering | 🔐 Cyber Security | 🧩 Problem Solving |
+🏅 Deep Learning Internship Certification
+
+<br>
+
+🏅 Redrob AI Ready Certification
+
+<br>
+
+🏅 AI & Machine Learning Learning Milestones
+
+<br>
+
+🏅 Data Structures & Algorithms Problem Solving
+
+<br>
+
+🏅 Continuous Learning in Emerging Technologies
 
 </div>
 
 ---
 
-# 🌟 Beyond Coding
-
-<div align="center">
-
-| 🧠 Always Learning | 💡 Problem Solver |
-|:-----------------:|:----------------:|
-| Exploring new technologies every day. | Love solving real-world challenges. |
-
-| 🤝 Team Player | 🚀 Innovation |
-|:--------------:|:-------------:|
-| Believe in collaboration and continuous growth. | Building impactful software with AI. |
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> ### *"The beautiful thing about learning is that no one can take it away from you."*
-
-### **— B. B. King**
-
-</div>
-
----
-
-# 🏅 Coding Profiles
+# 💻 Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/u/shourya_Kumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </a>
 
+
 <a href="https://github.com/shouryakumar6290">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
-# 📈 My Journey
 
-```text
-🎯 Learn
-     │
-     ▼
-💻 Build Projects
-     │
-     ▼
-🧠 Improve Skills
-     │
-     ▼
-🚀 Build AI Solutions
-     │
-     ▼
-🌍 Make an Impact
-```
-
----
-
-# ☕ Fun Facts
+# 📚 My Learning Journey
 
 <div align="center">
 
-💡 I enjoy turning ideas into real-world applications.
-
-🎧 Music keeps me focused while coding.
-
-📖 Learning something new every day is my favorite habit.
-
-🧩 I love solving DSA and algorithmic challenges.
-
-🤖 AI is not just my interest—it's my passion.
-
-🚀 My goal is to build technology that creates a positive impact.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Deep+Learning;Full+Stack+Development;Cloud+Computing;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies+🚀"/>
 
 </div>
 
 ---
 
-# 💙 My Philosophy
+# 🌱 Currently Exploring
 
 <div align="center">
 
-> ### **"Technology is best when it brings people together."**
-
-### 📚 Keep Learning
-
-### 🚀 Keep Building
-
-### 🌱 Keep Growing
+| 🌟 Area | 🚀 Focus |
+|:---:|:---:|
+| 🤖 Artificial Intelligence | Advanced AI Applications |
+| 🧠 Deep Learning | Transformers & Generative AI |
+| 🌐 Full Stack | Scalable Web Applications |
+| ☁️ Cloud | AWS & DevOps |
+| 💻 DSA | Problem Solving & Optimization |
+| 🔓 Open Source | Collaboration & Contribution |
 
 </div>
 
 ---
 
-# 📊 Profile Summary
+# 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-| 🎓 Student | 💻 Developer | 🤖 AI Enthusiast |
-|:---------:|:-----------:|:---------------:|
-| B.Tech CSE | Full Stack | Deep Learning |
-
-| ☁️ Cloud | 🧠 DSA | 🚀 Open Source |
-|:---------:|:------:|:--------------:|
-| Learning | Problem Solving | Contributing |
-
-</div>
-
----
-
-<div align="center">
-
-# ⭐ Thank You for Visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!;See+You+Again!+👋"/>
-
-### 💙 Thank you for taking the time to explore my GitHub profile.
-
-### 🚀 I'm always learning, building, and exploring new technologies.
-
-### ⭐ If you like my work, consider giving a star to the repositories you enjoy.
+I am always interested in:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,11,20,24"/>
+🤖 Artificial Intelligence  
+<br>
+🧠 Machine Learning  
+<br>
+🌐 Full Stack Development  
+<br>
+☁️ Cloud Technologies  
+<br>
+🚀 Innovative Ideas  
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+The+Future+With+Technology;Learning+Every+Day;Creating+Impact+Through+Code"/>
+
+</div>
+
+---
+
+# ⭐ Show Some Support
+
+<div align="center">
+
+If you find my work interesting, consider following me on GitHub ⭐
+
+<br>
+
+<img src="https://img.shields.io/github/followers/shouryakumar6290?style=for-the-badge&logo=github"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
 
 </div>
