@@ -1,7 +1,9 @@
-<!-- Banner -->
+<!-- ============================== -->
+<!--            BANNER             -->
+<!-- ============================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24&text=Shourya%20Kumar&fontSize=55&fontAlignY=38&desc=Deep%20Learning%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24&text=Shourya%20Kumar&fontSize=58&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Shourya Kumar</h1>
@@ -12,7 +14,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;AI+Research+Enthusiast;Always+Learning+New+Things!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Deep+Learning+Developer+%7C+Full+Stack+Developer+%7C+AI+Enthusiast;Machine+Learning+%7C+Cloud+Computing+%7C+Software+Engineering;Always+Learning+%7C+Always+Building+%7C+Always+Growing"/>
 
 </p>
 
@@ -72,22 +74,25 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/shourya_Kumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="https://github.com/shouryakumar6290">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shourya_Kumar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/theshouryakumar">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-
 # 💻 Tech Stack
 
 <table align="center">
@@ -192,6 +197,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 - 🚀 Building Scalable Applications
 
 ---
+
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -237,7 +243,6 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 </p>
 
 ---
-
 # 🏅 Achievements
 
 <div align="center">
@@ -281,7 +286,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 </td>
 
 <td align="center">
-⚙ Kubernetes
+⚙️ Kubernetes
 </td>
 
 <td align="center">
@@ -308,7 +313,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 
 🤖 Machine Learning
 
-🎙 Speech Processing
+🎙️ Speech Processing
 
 🧩 Problem Solving
 
@@ -337,6 +342,7 @@ Artificial Intelligence • Deep Learning • Full Stack Development
 </div>
 
 ---
+
 # 🌟 Beyond Coding
 
 <div align="center">
@@ -392,7 +398,6 @@ Building software that creates meaningful impact.
 </div>
 
 ---
-
 # 📈 My Journey
 
 ```text
@@ -433,11 +438,11 @@ Building software that creates meaningful impact.
 
 > **"Technology is best when it brings people together."**
 
-### Keep Learning 📚
+### 📚 Keep Learning
 
-### Keep Building 🚀
+### 🚀 Keep Building
 
-### Keep Growing 🌱
+### 🌱 Keep Growing
 
 </div>
 
@@ -455,12 +460,20 @@ Building software that creates meaningful impact.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/shouryakumar6290">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/u/shourya_Kumar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shouryakumar6290">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/theshouryakumar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
