@@ -21,7 +21,7 @@
 
 ### 💫 About Me
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; background: transparent;">
   <tr style="border: none;">
     <td width="60%" style="border: none;">
       <div align="left">
@@ -123,23 +123,23 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shouryakumar6290&theme=tokyonight&bg_color=0D1117" width="100%" alt="Profile Summary" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="49%" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shouryakumar6290&theme=tokyonight&bg_color=0D1117" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shouryakumar6290&theme=tokyonight&bg_color=0D1117" width="49%" alt="Most Commit Language" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shouryakumar6290&theme=tokyonight&bg_color=0D1117" width="49%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shouryakumar6290&theme=tokyonight&utcOffset=5.5&bg_color=0D1117" width="49%" alt="Productive Time" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<h4 align="center">🔥 Activity Graph & Streak</h4>
+<h4 align="center">📈 Activity Graph</h4>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
