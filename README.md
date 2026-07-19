@@ -123,15 +123,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="49%" alt="Top Languages" />
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+  <!-- Dynamic GitHub Metrics Summary Box (Zero Rate Limits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&disable_animations=true" width="49%" alt="GitHub Stats" />
+  <!-- Most Used Languages Box (Zero Rate Limits) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&disable_animations=true" width="49%" alt="Top Languages" />
 </div>
 
 <br>
@@ -139,6 +134,7 @@
 <h4 align="center">📈 Activity Graph</h4>
 
 <div align="center">
+  <!-- Alternative visual metric graph wrapper -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
