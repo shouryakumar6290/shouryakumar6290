@@ -1,28 +1,29 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00E5FF;">Shourya Kumar</span>
+Hi 👋, I'm <span style="color:#00E5FF;">Shourya Kumar</span>
 </h1>
 
 <h3 align="center">
 Artificial Intelligence • Deep Learning • Full Stack Developer
 </h3>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Building+AI+Powered+Applications;Always+Learning+Something+New+🚀"/>
-
-</p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/shouryakumar6290?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/shouryakumar6290?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Artificial+Intelligence+Enthusiast;Deep+Learning+Developer;Full+Stack+Developer;Building+AI+Powered+Applications;Always+Learning+Something+New+🚀"/>
 
 </p>
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
+
+</p>
+
 
 ---
+
+# 💫 About Me
 
 <table>
 
@@ -30,27 +31,38 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 <td width="55%">
 
-# 💫 About Me
-
 🎓 B.Tech Computer Science Engineering Student
+
+<br><br>
 
 🤖 Passionate about Artificial Intelligence
 
+<br><br>
+
 🧠 Deep Learning & Machine Learning Enthusiast
+
+<br><br>
 
 🌐 Full Stack MERN Developer
 
-💻 Strong in Data Structures & Algorithms
+<br><br>
+
+💻 Strong Foundation in Data Structures & Algorithms
+
+<br><br>
 
 ☁️ Exploring Cloud Computing & DevOps
 
-🚀 Love Building AI Powered Applications
+<br><br>
 
-📖 Constantly Learning New Technologies
+🚀 Building AI Powered Applications
 
-🎯 **Goal:** Build scalable AI products that solve real-world problems.
+<br><br>
+
+🎯 Goal: Creating scalable technology solutions
 
 </td>
+
 
 <td width="45%">
 
@@ -66,8 +78,8 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </table>
 
----
 
+---
 # 🌐 Connect With Me
 
 <p align="center">
@@ -98,57 +110,324 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </p>
 
+
 ---
+
 # 💻 Tech Stack
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6"/>
+<table>
 
-<br><br>
+<tr>
 
-## 🌐 Frontend Development
+<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,figma&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c" width="60"/>
 
-<br><br>
+<br>
 
-## ⚙️ Backend Development
+C
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4"/>
+</td>
 
-<br><br>
 
-## 🤖 AI / Machine Learning
+<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&perline=3"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
 
-<br><br>
+<br>
 
-## ☁️ Cloud & DevOps
+C++
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel,vscode&perline=7"/>
+</td>
+
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+
+<br>
+
+Java
+
+</td>
+
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+
+<br>
+
+Python
+
+</td>
+
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=javascript" width="60"/>
+
+<br>
+
+JavaScript
+
+</td>
+
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=typescript" width="60"/>
+
+<br>
+
+TypeScript
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+
+<br>
+
+HTML
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=css" width="60"/>
+
+<br>
+
+CSS
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+
+<br>
+
+React
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+
+<br>
+
+Node.js
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=express" width="60"/>
+
+<br>
+
+Express
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+
+<br>
+
+MongoDB
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+
+<br>
+
+MySQL
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+
+<br>
+
+TensorFlow
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
+
+<br>
+
+PyTorch
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="60"/>
+
+<br>
+
+AWS
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" width="60"/>
+
+<br>
+
+Docker
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60"/>
+
+<br>
+
+Kubernetes
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+
+<br>
+
+Git
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+
+<br>
+
+GitHub
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel" width="60"/>
+
+<br>
+
+Vercel
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+
+<br>
+
+VS Code
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" width="60"/>
+
+<br>
+
+Figma
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="60"/>
+
+<br>
+
+Linux
+
+</td>
+
+
+</tr>
+
+
+</table>
+
 
 </div>
 
----
 
+---
 # 🚀 What I'm Currently Focusing On
 
 <div align="center">
 
-| 🚀 Domain | 📌 Working On |
-|:---------:|:--------------|
-| 🤖 Artificial Intelligence | Building AI-powered Applications |
+| 🚀 Domain | 📌 Focus |
+|:---------:|:---------|
+| 🤖 Artificial Intelligence | Building AI Powered Applications |
 | 🧠 Deep Learning | Transformers & Neural Networks |
-| 🌐 Full Stack Development | MERN Stack Projects |
-| 💻 Data Structures | Problem Solving & Competitive Programming |
-| ☁️ Cloud Computing | AWS & Deployment |
-| 📚 Open Source | Learning & Contributing |
+| 🌐 Full Stack Development | MERN Stack Development |
+| 💻 Data Structures | Problem Solving & Optimization |
+| ☁️ Cloud Computing | AWS & DevOps |
+| 🔓 Open Source | Learning & Contribution |
 
 </div>
+
 
 ---
 
@@ -170,26 +449,52 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </div>
 
+
 ---
 
 # 🎯 Current Goals
 
-- 🚀 Build impactful AI-powered applications.
-- 🧠 Master Deep Learning and Generative AI.
-- 🌐 Develop scalable Full Stack applications.
-- ☁️ Learn AWS, Docker, and Kubernetes.
-- 💻 Strengthen Data Structures & Algorithms.
-- 🤝 Contribute to Open Source projects.
-- 📈 Continuously improve problem-solving skills.
+<div align="center">
+
+🚀 Build impactful AI-powered applications.
+
+<br>
+
+🧠 Master Deep Learning and Generative AI.
+
+<br>
+
+🌐 Develop scalable Full Stack applications.
+
+<br>
+
+☁️ Learn Cloud Computing and DevOps.
+
+<br>
+
+💻 Strengthen Data Structures & Algorithms.
+
+<br>
+
+🤝 Contribute to Open Source projects.
+
+<br>
+
+📈 Improve problem-solving skills continuously.
+
+</div>
+
 
 ---
+
 # 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
 
 ---
 
@@ -201,6 +506,7 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </p>
 
+
 <p align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shouryakumar6290&theme=tokyonight"/>
@@ -208,6 +514,7 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shouryakumar6290&theme=tokyonight"/>
 
 </p>
+
 
 <p align="center">
 
@@ -217,8 +524,8 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </p>
 
----
 
+---
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -226,6 +533,7 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
@@ -237,165 +545,48 @@ Artificial Intelligence • Deep Learning • Full Stack Developer
 
 </p>
 
+
 ---
 
 # ⚡ Developer Highlights
 
 <div align="center">
 
-🏆 Passionate about solving real-world problems using AI.
+🤖 Passionate about solving real-world problems using Artificial Intelligence.
 
-💡 Strong foundation in Data Structures & Algorithms.
+<br><br>
 
-🤖 Interested in Artificial Intelligence & Deep Learning.
+🧠 Exploring Deep Learning, Transformers and Generative AI.
 
-🌐 Experienced in Full Stack Web Development.
+<br><br>
+
+🌐 Building modern Full Stack Web Applications.
+
+<br><br>
+
+💻 Strong interest in Data Structures & Algorithms.
+
+<br><br>
 
 ☁️ Exploring Cloud Computing and DevOps.
+
+<br><br>
 
 🚀 Always learning, building and improving.
 
 </div>
 
----
+
 ---
 
-# 💼 Professional Experience
+# 🤝 Let's Create Something Amazing
 
 <div align="center">
 
-### 🧠 Deep Learning Intern  
-**Birla Institute of Technology, Mesra**
-
-Worked on Artificial Intelligence and Deep Learning based solutions, exploring Transformer architectures and advanced neural network models.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+My+Profile!;Keep+Learning+🚀;Keep+Building+🔥;Keep+Innovating+💡"/>
 
 <br>
 
-### 🚀 Enactus KIIT  
-Technology & Innovation Contributor
-
-Contributing towards technology-driven initiatives and innovative solutions.
-
-</div>
-
----
-
-# 🏆 Achievements & Certifications
-
-<div align="center">
-
-🏅 Deep Learning Internship Certification
-
-<br>
-
-🏅 Redrob AI Ready Certification
-
-<br>
-
-🏅 AI & Machine Learning Learning Milestones
-
-<br>
-
-🏅 Data Structures & Algorithms Problem Solving
-
-<br>
-
-🏅 Continuous Learning in Emerging Technologies
-
-</div>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/shourya_Kumar/">
-
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-
-<a href="https://github.com/shouryakumar6290">
-
-<img src="https://img.shields.io/badge/GitHub-Developer-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-# 📚 My Learning Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Deep+Learning;Full+Stack+Development;Cloud+Computing;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies+🚀"/>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-<div align="center">
-
-| 🌟 Area | 🚀 Focus |
-|:---:|:---:|
-| 🤖 Artificial Intelligence | Advanced AI Applications |
-| 🧠 Deep Learning | Transformers & Generative AI |
-| 🌐 Full Stack | Scalable Web Applications |
-| ☁️ Cloud | AWS & DevOps |
-| 💻 DSA | Problem Solving & Optimization |
-| 🔓 Open Source | Collaboration & Contribution |
-
-</div>
-
----
-
-# 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-I am always interested in:
-
-<br>
-
-🤖 Artificial Intelligence  
-<br>
-🧠 Machine Learning  
-<br>
-🌐 Full Stack Development  
-<br>
-☁️ Cloud Technologies  
-<br>
-🚀 Innovative Ideas  
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+The+Future+With+Technology;Learning+Every+Day;Creating+Impact+Through+Code"/>
-
-</div>
-
----
-
-# ⭐ Show Some Support
-
-<div align="center">
-
-If you find my work interesting, consider following me on GitHub ⭐
-
-<br>
-
-<img src="https://img.shields.io/github/followers/shouryakumar6290?style=for-the-badge&logo=github"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer"/>
+⭐ Feel free to explore my repositories and connect with me.
 
 </div>
