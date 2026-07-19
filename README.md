@@ -125,7 +125,6 @@
 <div align="center">
   <!-- Top Languages Breakdown Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=60" width="49%" alt="Top Languages" />
-  
   <!-- Global Profile Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=60" width="49%" alt="GitHub Stats" />
 </div>
