@@ -1,24 +1,46 @@
-# 💫 Hi, I'm Shourya Kumar!
+<h1 align="center">Hi 👋, I'm Shourya Kumar</h1>
 
-<h3 align="center">Deep Learning • Full Stack Developer • AI Enthusiast</h3>
+<h3 align="center">
+🚀 Deep Learning Enthusiast • Full Stack Developer • AI Researcher
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things!" />
+
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
 
-- 🎓 B.Tech CSE Student at KIIT University
-- 🌱 Currently learning Full Stack Development, AI & Cloud
-- 💻 Passionate about Software Engineering and Machine Learning
-- ⚡ Solving DSA problems regularly
-- 🚀 Building AI-powered applications
+<img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shouryakumar6290?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/shouryakumar6290?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 💫 About Me
+
+🎓 B.Tech CSE Student at KIIT University
+
+🤖 Passionate about Artificial Intelligence & Deep Learning
+
+💻 Full Stack Web Developer
+
+📚 Solving DSA Problems Daily
+
+🌱 Currently learning Cloud Computing & System Design
+
+⚡ Fun Fact: Ranked among the **Top 0.01%** in CBSE Class X.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -34,7 +56,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/theshouryakumar/">
+<a href="https://www.instagram.com/theshouryakumar">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -45,65 +67,113 @@
 </p>
 
 ---
-
 # 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,vercel,vite&perline=9"/>
+
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch"/>
+
+</p>
+
+---
+
+# 📌 Core Skills
+
+<table align="center">
+
+<tr>
+<td align="center">🤖 AI & Deep Learning</td>
+<td align="center">🌐 Full Stack Development</td>
+<td align="center">💻 Data Structures & Algorithms</td>
+</tr>
+
+<tr>
+<td align="center">🧠 Machine Learning</td>
+<td align="center">☁️ Cloud Computing</td>
+<td align="center">🔐 Cyber Security</td>
+</tr>
+
+<tr>
+<td align="center">📊 Data Science</td>
+<td align="center">⚡ Problem Solving</td>
+<td align="center">📱 Responsive Web Apps</td>
+</tr>
+
+</table>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true"/>
-<img width="32%" src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shouryakumar6290&theme=tokyonight"/>
+
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shouryakumar6290&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shouryakumar6290&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shouryakumar6290&theme=tokyonight"/>
+
 </p>
-
----
-
-# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shouryakumar6290&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shouryakumar6290&theme=tokyonight&utcOffset=5.5"/>
+
 </p>
 
 ---
 
-## ⭐ Quote
+# 🔥 GitHub Streak
 
-> **"Code. Learn. Build. Repeat."**
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shouryakumar6290&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📈 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00bfff/shouryakumar6290" alt="Contribution Graph"/>
+
+</p>
+
+---
