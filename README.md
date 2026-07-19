@@ -34,7 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Coding Animation" width="300" />
+      <!-- UPDATED VISUAL: Replaced broken blue strip with relevant AI animation -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmeDZndXA0NDI1Y3RtZzNidm4ycHd5cWZ5b2hhczU0MzNqdGhwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Server Animation" width="280" />
     </td>
   </tr>
 </table>
@@ -123,10 +124,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Top Languages Card (Using working server mirror) -->
+  <!-- Top Languages Card (Using optimized mirror server) -->
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   
-  <!-- Global Profile Stats Card (Using working server mirror) -->
+  <!-- Global Profile Stats Card (Using optimized mirror server) -->
   <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
@@ -143,6 +144,7 @@
 <h4 align="center">🐍 Contribution Snake Game</h4>
 
 <div align="center">
+  <!-- Dynamic Contribution Snake -->
   <img alt="github contribution grid snake animation" src="https://github.com/shouryakumar6290/shouryakumar6290/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
