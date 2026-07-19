@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=✨+Welcome+To+My+GitHub+Profile+✨;🚀+Keep+Learning,+Keep+Building!+🚀" alt="Welcome" />
+</div>
+
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00E5FF&section=header&text=Hello,%20I'm%20Shourya%20Kumar!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Deep%20Learning%20Enthusiast%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descAlign=62"/>
 
@@ -173,6 +177,18 @@
   <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+#### 🐍 Contribution Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shouryakumar6290/shouryakumar6290/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
