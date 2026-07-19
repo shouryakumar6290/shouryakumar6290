@@ -123,19 +123,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- 100% Stable GitHub Summary Badges -->
-  <img src="https://img.shields.io/github/followers/shouryakumar6290?label=Followers&style=for-the-badge&color=00d2ff&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shouryakumar6290?label=Total%20Stars&style=for-the-badge&color=0072ff&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/shouryakumar6290/shouryakumar6290?label=Repo%20Size&style=for-the-badge&color=00c6ff&logo=github" alt="Size" />
+  <!-- Top Languages Card (Using standard, non-rate-limited reliable layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
+  
+  <!-- Main Overall Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 </div>
 
 <br>
 
-<h4 align="center">📈 Contribution Activity Graph</h4>
+<h4 align="center">📈 Activity Graph</h4>
 
 <div align="center">
-  <!-- Using a cache-busting variant to break GitHub's sticky cache loop -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true&v=refresh101" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
