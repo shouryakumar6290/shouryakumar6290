@@ -34,8 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- UPDATED VISUAL: Replaced broken blue strip with relevant AI animation -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmeDZndXA0NDI1Y3RtZzNidm4ycHd5cWZ5b2hhczU0MzNqdGhwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Server Animation" width="280" />
+      <!-- UPDATED VISUAL: Corrected image link to match the dual monitor developer setup -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzcnd5Zm95M2c4NXc0OG95bWthM3ZsOHF5c2tzcWZ5d3NtcW94biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvikpYOS14G76/giphy.gif" alt="Developer Coding Animation" width="300" />
     </td>
   </tr>
 </table>
