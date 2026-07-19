@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="mailto:shouryakumar6290@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/shourya-kumar-83b47741a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shourya-kumar-83b47741a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/shouryakumar6290"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/shourya_Kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.instagram.com/theshouryakumar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -123,11 +123,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Top Languages Card (Using standard, non-rate-limited reliable layout) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
+  <!-- Fixed Top Languages Card with Aggressive Cache Control -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryakumar6290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&v=fix12" width="49%" alt="Top Languages" />
   
-  <!-- Main Overall Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <!-- Fixed Global Profile Stats Card with Aggressive Cache Control -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shouryakumar6290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&v=fix12" width="49%" alt="GitHub Stats" />
 </div>
 
 <br>
@@ -135,7 +135,7 @@
 <h4 align="center">📈 Activity Graph</h4>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryakumar6290&theme=tokyo-night&hide_border=true&area=true&v=fix12" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
