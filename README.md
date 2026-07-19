@@ -1,161 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=✨+Welcome+To+My+GitHub+Profile+✨;🚀+Keep+Learning,+Keep+Building!+🚀" alt="Welcome" />
+
+<!-- Header Section with Twinkling Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Hello,%20I'm%20Shourya%20Kumar!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20%7C%20Deep%20Learning%20Enthusiast%20%7C%20MERN%20Stack&descAlignY=55&descAlign=62" width="100%"/>
+
+<!-- Animated Welcome Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00d2ff&center=true&vCenter=true&width=800&lines=✨+Welcome+To+My+GitHub+Profile+✨;🚀+Transforming+Ideas+Into+Scalable+Code;🧠+Exploring+the+World+of+AI+%26+Deep+Learning" alt="Welcome" />
+
+<br><br>
+
+<a href="https://github.com/shouryakumar6290">
+  <img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=00d2ff&style=for-the-badge&logo=github" alt="Profile Views" />
+</a>
+
+<br><br>
+
+<!-- Stylish Aqua Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 </div>
-
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00E5FF&section=header&text=Hello,%20I'm%20Shourya%20Kumar!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Deep%20Learning%20Enthusiast%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descAlign=62"/>
-
-<div align="center">
-  <a href="https://github.com/shouryakumar6290">
-    <img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile%20Views&color=00E5FF&style=flat-square&logo=github" alt="Profile Views" />
-  </a>
-</div>
-
-<br>
-
----
 
 ### 💫 About Me
 
-<ul>
-  <li>🎓 <b>B.Tech Computer Science Engineering</b> Student.</li>
-  <li>🤖 Passionate about <b>Artificial Intelligence</b> and creating scalable AI solutions.</li>
-  <li>🧠 Enthusiast in <b>Deep Learning & Machine Learning</b>.</li>
-  <li>🌐 Experienced in building applications as a <b>Full Stack MERN Developer</b>.</li>
-  <li>💻 Strong foundational knowledge in <b>Data Structures & Algorithms</b>.</li>
-  <li>☁️ Constantly exploring and expanding my skills in <b>Cloud Computing & DevOps</b>.</li>
-</ul>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none;">
+      <div align="left">
+        🎓 <b>Education:</b> B.Tech Computer Science Engineering Student.<br><br>
+        🤖 <b>AI Enthusiast:</b> Passionate about Artificial Intelligence and building scalable AI solutions.<br><br>
+        🧠 <b>Machine Learning:</b> Enthusiast in Deep Learning & ML architectures.<br><br>
+        🌐 <b>Full Stack:</b> Experienced in building applications as a MERN Developer.<br><br>
+        💻 <b>Core Skills:</b> Strong foundational knowledge in Data Structures & Algorithms.<br><br>
+        ☁️ <b>Exploring:</b> Constantly expanding my skills in Cloud Computing & DevOps.<br>
+      </div>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Coding Animation" width="300" />
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:shouryakumar6290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/shourya-kumar-83b47741a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shouryakumar6290">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/shourya_Kumar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/theshouryakumar">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/shourya.kumar.37266136">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="mailto:shouryakumar6290@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shourya-kumar-83b47741a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shouryakumar6290"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/shourya_Kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/theshouryakumar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/shourya.kumar.37266136"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 ### 💻 Tech Stack
 
 <div align="center">
 
-#### Programming Languages
-<table>
+<p align="center"><b>Programming Languages</b></p>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br><b>Python</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /><br><b>JavaScript</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" /><br><b>TypeScript</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" /><br><b>C++</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" /><br><b>Java</b></td>
   </tr>
 </table>
 
-#### AI & Machine Learning
-<table>
+<p align="center"><b>AI & Machine Learning</b></p>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" /><br><b>TensorFlow</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" /><br><b>PyTorch</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-Learn" /><br><b>Scikit-Learn</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" /><br><b>Pandas</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" /><br><b>NumPy</b></td>
   </tr>
 </table>
 
-#### Frontend Development
-<table>
+<p align="center"><b>Frontend Development</b></p>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" /><br>Tailwind
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" /><br><b>React</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /><br><b>HTML5</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /><br><b>CSS3</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" /><br><b>Tailwind</b></td>
   </tr>
 </table>
 
-#### Backend & Databases
-<table>
+<p align="center"><b>Backend & Databases</b></p>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express" /><br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /><br><b>Node.js</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express" /><br><b>Express</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" /><br><b>MongoDB</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /><br><b>MySQL</b></td>
   </tr>
 </table>
 
-#### Tools & Cloud
-<table>
+<p align="center"><b>Tools & Cloud</b></p>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
-    </td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" /><br><b>Git</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" /><br><b>Docker</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="AWS" /><br><b>AWS</b></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br><b>Linux</b></td>
   </tr>
 </table>
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
 
 ### 📊 GitHub Analytics
 
@@ -171,7 +134,7 @@
 
 <br>
 
-#### 🔥 Activity Graph & Streak
+<h4 align="center">🔥 Activity Graph & Streak</h4>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shouryakumar6290&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -181,7 +144,7 @@
 
 <br>
 
-#### 🐍 Contribution Snake Game
+<h4 align="center">🐍 Contribution Snake Game</h4>
 
 <div align="center">
   <picture>
@@ -191,11 +154,17 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</div>
+
 <br>
 
 <p align="center">
-  <i><b>Keep Learning • Keep Building • Keep Growing</b></i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=Keep+Learning+•+Keep+Building+•+Keep+Growing" alt="Quote" />
 </p>
 
 <!-- Footer Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00E5FF&section=footer"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=120&section=footer" width="100%"/>
+</div>
