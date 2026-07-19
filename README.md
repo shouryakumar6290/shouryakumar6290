@@ -34,8 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- FIXED: Stable GitHub-hosted developer vector animation -->
-      <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Developer Animation" width="250" />
+      <!-- FIXED: Professional Developer Tech Illustration -->
+      <img src="https://raw.githubusercontent.com/JavierAviles/JavierAviles/master/assets/developer.svg" alt="Professional Developer Illustration" width="300" />
     </td>
   </tr>
 </table>
