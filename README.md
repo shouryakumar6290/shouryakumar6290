@@ -34,8 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- FIXED: 100% stable illustration hosted directly on GitHub's assets -->
-      <img src="https://github.githubassets.com/images/modules/site/home/globe/glow.png" alt="Developer System Illustration" width="300" style="display: block; margin: auto;" />
+      <!-- UPDATED VISUAL: Replaced broken blue strip with relevant AI animation -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpmeDZndXA0NDI1Y3RtZzNidm4ycHd5cWZ5b2hhczU0MzNqdGhwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Server Animation" width="280" />
     </td>
   </tr>
 </table>
