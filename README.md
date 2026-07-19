@@ -34,8 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- UPDATED VISUAL: Corrected image link to match the dual monitor developer setup -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzcnd5Zm95M2c4NXc0OG95bWthM3ZsOHF5c2tzcWZ5d3NtcW94biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZvikpYOS14G76/giphy.gif" alt="Developer Coding Animation" width="300" />
+      <!-- FIXED: Stable GitHub-hosted developer vector animation -->
+      <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Developer Animation" width="250" />
     </td>
   </tr>
 </table>
