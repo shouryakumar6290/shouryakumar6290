@@ -34,8 +34,8 @@
       </div>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- FIXED: Professional Developer Tech Illustration -->
-      <img src="https://raw.githubusercontent.com/JavierAviles/JavierAviles/master/assets/developer.svg" alt="Professional Developer Illustration" width="300" />
+      <!-- FIXED: 100% stable illustration hosted directly on GitHub's assets -->
+      <img src="https://github.githubassets.com/images/modules/site/home/globe/glow.png" alt="Developer System Illustration" width="300" style="display: block; margin: auto;" />
     </td>
   </tr>
 </table>
