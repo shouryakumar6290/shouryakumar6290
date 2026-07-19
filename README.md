@@ -1,42 +1,62 @@
-<h1 align="center">Hi 👋, I'm Shourya Kumar</h1>
+<!-- Banner -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24&text=Shourya%20Kumar&fontSize=55&fontAlignY=38&desc=Deep%20Learning%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Shourya Kumar</h1>
 
 <h3 align="center">
-🚀 Deep Learning Enthusiast • Full Stack Developer • AI Researcher
+Artificial Intelligence • Deep Learning • Full Stack Development
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things!"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shouryakumar6290&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Deep+Learning+Developer;Full+Stack+Developer;AI+Research+Enthusiast;Always+Learning+New+Things!"/>
 
 </p>
 
 ---
 
+<table>
+<tr>
+
+<td width="55%">
+
 # 💫 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+🎓 B.Tech Computer Science Engineering Student
 
-🎓 **B.Tech Computer Science & Engineering** at KIIT University
+🤖 Passionate about Artificial Intelligence
 
-🤖 Passionate about **Artificial Intelligence & Deep Learning**
+🧠 Deep Learning & Machine Learning Enthusiast
 
-💻 Full Stack Web Developer
+🌐 Full Stack Web Developer
 
-🧠 Strong interest in **Machine Learning, NLP & Computer Vision**
+💻 Strong in Data Structures & Algorithms
 
-📚 Solving Data Structures & Algorithms problems regularly
+☁️ Exploring Cloud Computing
 
-🌱 Currently learning **Cloud Computing, System Design & Advanced AI**
+🚀 Love building impactful software
 
-🚀 Always building projects that solve real-world problems.
+📖 Always curious to learn emerging technologies
 
-⚡ **Fun Fact:** Ranked among the **Top 0.01%** in CBSE Class X.
+🎯 Goal: Build scalable AI products that solve real-world problems.
+
+</td>
+
+<td width="45%">
+
+<p align="center">
+
+<img width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFvNTRlbTR0d2M2d2V4M3o5bWlxd2VkMXI0YWhhaGQ4bjJtb3NobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -56,12 +76,12 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/theshouryakumar">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://github.com/shouryakumar6290">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/theshouryakumar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -74,56 +94,28 @@
 
 <tr>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br><b>C</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>C++</b>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br><b>Java</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br><b>Java</b>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br><b>Python</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=typescript" width="50"/><br><b>TypeScript</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/><br><b>TypeScript</b>
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML5</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS3</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br><b>React</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><b>Node.js</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="50"/><br><b>Express</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><b>MongoDB</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><b>MySQL</b>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b>
 </td>
 
 </tr>
@@ -131,27 +123,55 @@
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br><b>GitHub</b>
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VS Code</b>
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br><b>Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><b>Vercel</b>
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br><b>Express</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="50"/><br><b>Figma</b>
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br><b>MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vite" width="50"/><br><b>Vite</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br><b>MySQL</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite" width="55"/><br><b>Vite</b>
 </td>
 
 </tr>
@@ -162,13 +182,14 @@
 
 # 🚀 Current Focus
 
-- 🤖 Deep Learning & Large Language Models
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
 - 🌐 Full Stack Development
 - ☁️ Cloud Computing
 - 💻 Data Structures & Algorithms
-- 🧠 Machine Learning Research
-- 🔐 Cyber Security
-- 📱 Building AI-powered Applications
+- 🔒 Cyber Security
+- 📈 Software Engineering
+- 🚀 Building Scalable Applications
 
 ---
 # 🐍 Contribution Snake
@@ -217,77 +238,150 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🏅 Achievements
+
+<div align="center">
+
+🎓 B.Tech Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence
+
+🧠 Deep Learning & Machine Learning Enthusiast
+
+💻 Full Stack Developer
+
+🚀 Consistently Building and Learning
+
+📚 Strong Interest in Software Engineering
+
+🌱 Exploring Cloud Computing & System Design
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch&perline=5"/>
+
+<br><br>
 
 <table>
 
 <tr>
 
-<td width="50%">
-
-### 🎙️ AI Stress Detection from Speech
-
-✅ Transformer-based Deep Learning Model
-
-🎧 Audio Processing using Librosa
-
-🧠 Deep Neural Networks
-
-📈 Stress Classification
-
-⚙️ Python • TensorFlow • Hugging Face
-
+<td align="center">
+☁️ AWS
 </td>
 
-<td width="50%">
+<td align="center">
+🐳 Docker
+</td>
 
-### 📄 Career Navigator
+<td align="center">
+⚙ Kubernetes
+</td>
 
-AI-powered Resume Builder
+<td align="center">
+🧠 TensorFlow
+</td>
 
-📝 Resume Generation
-
-🤖 Smart Suggestions
-
-🌐 React + TypeScript
-
-⚡ Vite + Node.js
-
+<td align="center">
+🔥 PyTorch
 </td>
 
 </tr>
 
+</table>
+
+</div>
+
+---
+
+# 💡 Areas of Interest
+
+<div align="center">
+
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+🎙 Speech Processing
+
+🧩 Problem Solving
+
+🌐 Full Stack Development
+
+☁️ Cloud Computing
+
+🔐 Cyber Security
+
+📊 Data Science
+
+💻 Software Engineering
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> ### *"The beautiful thing about learning is that no one can take it away from you."*
+
+— **B. B. King**
+
+</div>
+
+---
+# 🌟 Beyond Coding
+
+<div align="center">
+
+<table>
+
 <tr>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 💧 Water Quality Prediction
+### 🧠
 
-Machine Learning Project
+### Always Learning
 
-📊 Data Visualization
-
-📈 Prediction Models
-
-🐍 Python
-
-📚 Scikit-learn
+Exploring new technologies and improving every day.
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### ❤️ Heart Disease Prediction
+### 💡
 
-Machine Learning Project
+### Problem Solver
 
-📊 Data Analytics
+I enjoy solving challenging real-world problems.
 
-📈 Classification Models
+</td>
 
-🐍 Python
+<td align="center" width="25%">
 
-🧠 Predictive Analytics
+### 🤝
+
+### Team Player
+
+Learning, collaborating and growing with others.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### Innovation
+
+Building software that creates meaningful impact.
 
 </td>
 
@@ -295,113 +389,66 @@ Machine Learning Project
 
 </table>
 
+</div>
+
 ---
 
-# 🧠 Skills Overview
+# 📈 My Journey
 
 ```text
-Artificial Intelligence    ████████████████████ 95%
-
-Machine Learning           ███████████████████ 92%
-
-Deep Learning              ██████████████████ 90%
-
-Python                     ██████████████████ 90%
-
-Java                       █████████████████ 88%
-
-React                      ████████████████ 85%
-
-Node.js                    ████████████████ 85%
-
-MongoDB                    ██████████████ 82%
-
-Data Structures            ███████████████████ 92%
-
-Problem Solving            ██████████████████ 90%
+🎯 Learn
+     │
+     ▼
+💻 Build Projects
+     │
+     ▼
+🧠 Improve Skills
+     │
+     ▼
+🚀 Share Knowledge
+     │
+     ▼
+🌍 Make an Impact
 ```
 
 ---
 
-# 🎯 2026 Goals
+# ☕ Fun Facts
 
-✅ Master System Design
+✨ I enjoy turning ideas into real applications.
 
-✅ Crack Top Product-Based Companies
+🎧 Music helps me stay focused while coding.
 
-✅ Publish AI Research
+📖 Every day is an opportunity to learn something new.
 
-✅ Open Source Contributions
+💻 I believe consistency is the key to mastering technology.
 
-✅ Build Large Scale AI Applications
+🌍 My goal is to build software that positively impacts people's lives.
 
 ---
-# 🏆 Achievements
+
+# 💙 Philosophy
 
 <div align="center">
 
-🥇 Top **0.01%** Performer in **CBSE Class X**
+> **"Technology is best when it brings people together."**
 
-🎓 B.Tech Computer Science Engineering Student
+### Keep Learning 📚
 
-💻 Passionate about Artificial Intelligence & Software Engineering
+### Keep Building 🚀
 
-🚀 Built AI-powered Web Applications
-
-🧠 Deep Learning & Machine Learning Enthusiast
-
-📈 Consistently Learning New Technologies
+### Keep Growing 🌱
 
 </div>
 
 ---
 
-# 📚 Currently Exploring
-
-<div align="center">
-
-| Domain | Technologies |
-|---------|--------------|
-| 🤖 Artificial Intelligence | Transformers, LLMs, Neural Networks |
-| 🌐 Full Stack Development | React, Node.js, Express |
-| ☁️ Cloud Computing | AWS, Docker |
-| 🔒 Cyber Security | Network Security, Authentication |
-| 📊 Data Science | Pandas, NumPy, Matplotlib |
-
-</div>
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-> **"Success isn't about writing more code. It's about solving bigger problems."**
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-✨ I enjoy building AI solutions that solve real-world problems.
-
-📚 Always learning something new every day.
-
-💻 Clean code is my favorite style.
-
-☕ Coffee + Music + Coding = Perfect Combination
-
-🚀 I believe consistency beats talent.
-
----
-
-# 📫 Let's Connect
+# 📫 Get in Touch
 
 <p align="center">
 
 <a href="mailto:shouryakumar6290@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shourya-kumar-83b47741a">
@@ -420,26 +467,22 @@ Problem Solving            █████████████████�
 
 ---
 
-# ❤️ Thanks for Visiting!
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+My+Profile!;Hope+You+Enjoyed+Exploring+My+Projects!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+# ⭐ Thank You for Visiting!
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting!;Hope+You+Enjoy+My+Work!;Let's+Connect+and+Grow+Together!;Happy+Coding!+🚀"/>
 
----
+### 💙 Every project represents my passion for learning, building and improving.
 
-<div align="center">
+### ⭐ If you enjoyed exploring my work,
 
-## ⭐ If you like my work...
+# **Please consider giving a ⭐ to the repositories you like.**
 
-### 🌟 Don't forget to **Star** ⭐ my repositories!
+### Your support inspires me to keep building and contributing to the developer community.
 
-Your support motivates me to create more innovative projects, contribute to open source, and keep learning every day.
+<br>
 
-### 🤝 Let's Connect • Collaborate • Create • Grow Together
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=6,11,20,24"/>
 
 </div>
